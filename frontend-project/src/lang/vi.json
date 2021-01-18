@@ -1,0 +1,12 @@
+{
+  "commons": {
+    "label": {
+      "project_name": "Fabbi - code",
+      "language-vi": "Tiếng việt",
+      "language-en": "Tiếng Anh"
+    },
+    "message": {
+      "welcome": "Chào mừng bạn đến với Vuejs"
+    }
+  }
+}

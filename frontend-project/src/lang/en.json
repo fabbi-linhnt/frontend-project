@@ -1,0 +1,12 @@
+{
+  "commons": {
+    "label": {
+      "project_name": "Fabbi - code",
+      "language-vi": "Vietnamese",
+      "language-en": "English"
+    },
+    "message": {
+      "welcome": "Welcome to Your Vue.js App"
+    }
+  }
+}
